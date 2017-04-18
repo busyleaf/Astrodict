@@ -3,7 +3,7 @@
 //  Astrology Dictionary
 //
 //  Created by Robert Snipes on 4/17/17.
-//  Copyright © 2017 snyps. All rights reserved.
+//  Copyright © 2017 snyps. All rights reserved..
 //
 
 import UIKit
