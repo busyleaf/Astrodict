@@ -10,13 +10,15 @@ import UIKit
 
 class DefinitionViewController: UIViewController {
     @IBOutlet weak var defSign: UILabel!
-
     @IBOutlet weak var defLabel: UILabel!
+    
+    //Variable is assigned value in different file
     var sign = "☯️"
     
     override func viewDidLoad() {
         super.viewDidLoad()
 
+        //set label with variable
         defSign.text = sign
         
         switch sign {
